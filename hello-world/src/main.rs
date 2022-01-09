@@ -1,5 +1,5 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Hello world!");
 
     //Arrays
     let a = [1; 10];
